@@ -1,8 +1,8 @@
 # Note App
 
-## Tasks
-1. Describe high level design
-2. Web App UI
-3. Data Model
-4. Restful API
-5. Web server
+## Overview
+
+Note web app, where a user can write a note, save a note, view a list of their notes, and delete a note. The user’s notes are saved so that they are available via any web-capable device
+
+### Wiki
+See Wiki for further information
